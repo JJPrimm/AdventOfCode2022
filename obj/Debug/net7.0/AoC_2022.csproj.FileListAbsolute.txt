@@ -1,0 +1,15 @@
+C:\Projects\AdventOfCode\AoC_2022\bin\Debug\net7.0\AoC_2022.exe
+C:\Projects\AdventOfCode\AoC_2022\bin\Debug\net7.0\AoC_2022.deps.json
+C:\Projects\AdventOfCode\AoC_2022\bin\Debug\net7.0\AoC_2022.runtimeconfig.json
+C:\Projects\AdventOfCode\AoC_2022\bin\Debug\net7.0\AoC_2022.dll
+C:\Projects\AdventOfCode\AoC_2022\bin\Debug\net7.0\AoC_2022.pdb
+C:\Projects\AdventOfCode\AoC_2022\obj\Debug\net7.0\AoC_2022.csproj.AssemblyReference.cache
+C:\Projects\AdventOfCode\AoC_2022\obj\Debug\net7.0\AoC_2022.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\AdventOfCode\AoC_2022\obj\Debug\net7.0\AoC_2022.AssemblyInfoInputs.cache
+C:\Projects\AdventOfCode\AoC_2022\obj\Debug\net7.0\AoC_2022.AssemblyInfo.cs
+C:\Projects\AdventOfCode\AoC_2022\obj\Debug\net7.0\AoC_2022.csproj.CoreCompileInputs.cache
+C:\Projects\AdventOfCode\AoC_2022\obj\Debug\net7.0\AoC_2022.dll
+C:\Projects\AdventOfCode\AoC_2022\obj\Debug\net7.0\refint\AoC_2022.dll
+C:\Projects\AdventOfCode\AoC_2022\obj\Debug\net7.0\AoC_2022.pdb
+C:\Projects\AdventOfCode\AoC_2022\obj\Debug\net7.0\AoC_2022.genruntimeconfig.cache
+C:\Projects\AdventOfCode\AoC_2022\obj\Debug\net7.0\ref\AoC_2022.dll
